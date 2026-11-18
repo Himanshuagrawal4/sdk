@@ -6,6 +6,7 @@ The following pages contain useful information for developers building on top of
 :maxdepth: 2
 
 porting
+dummyjson-products
 pagination-classes
 schema-sources
 custom-clis
